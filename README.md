@@ -9,4 +9,13 @@ Yanyi Chu, Yan Zhang, Qiankun Wang, Lingfeng Zhang, Xuhong Wang, Yanjing Wang, D
 *Nature Machine Intelligence*, vol. 4, pp. 300–311, 2022.  
 [https://api.semanticscholar.org/CorpusID:247634099](https://api.semanticscholar.org/CorpusID:247634099)
 
-Code at https://github.com/a96123155/TransPHLA-AOMP
+Code at https://github.com/a96123155/TransPHLA-AOMP 
+
+and the AntiBERTa framework described by:
+
+Jinwoo Leem, Laura S. Mitchell, James H.R. Farmery, Justin Barton, Jacob D. Galson,
+"Deciphering the language of antibodies using self-supervised learning,"
+Patterns, vol. 3, no. 7, 2022.
+https://doi.org/10.1016/j.patter.2022.100513
+
+Code at https://github.com/alchemab/antiberta/blob/master/mlm.ipynb
